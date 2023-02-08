@@ -5,7 +5,7 @@ This code is a simple C# program that uses the Windows Management Instrumentatio
 ## How to Use
 
 1. Open Visual Studio and create a new Console Application project.
-2. Replace the contents of the `Program.cs` file with the code provided in this repository.
+2. Replace the contents of the `Program.cs` file with the code provided in this repository in the `HardwareDetector.cs` file.
 3. Build and run the project.
 
 ## Explanation of the Code
